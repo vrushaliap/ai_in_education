@@ -1,4 +1,4 @@
-# ai_in_education
+# AI_in_education
 ## **Overview**
 
 This repository contains the dissertation project "**Integration of AI in Higher Education: Learner’s Perspective**", completed as part of a Master’s degree in Business Analytics at the University of Surrey (2024). The research investigates how Artificial Intelligence (AI) impacts teaching, learning, and student performance, with a special focus on ChatGPT/Abot adoption. The project explores both opportunities and challenges of AI in education, combining survey responses from 200 participants and sentiment analysis of 558 YouTube comments. A variety of machine learning models were applied to analyze perceptions, trends, and learner experiences with AI tools.
